@@ -13,7 +13,7 @@ To best serve the retailers and growers, the Crop Input division would like to k
 **What is the need for change? Why now?**
 
 The Crop Input division's sales team supports its retailers using an ordering system.
-Winfield United would like to provide its sellers with real-time recommendations to increase retailer-level share of wallet.
+The Company would like to provide its sellers with real-time recommendations to increase retailer-level share of wallet.
 
 # Key Question
 
