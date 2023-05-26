@@ -1,14 +1,12 @@
 # Product-Recommender-System
 
-**Project Objective**: 
-----------------------
+## Project Objective: 
+
 To build a Systematic, data-driven approach that supplements the Sales
 team’s domain expertise in recommending products to retailers utilizing Association Rule
 Mining.
 
-**Outcome of the Project**:
----------------------------
-
+## Outcome of the Project:
 The project achieved the following outcomes:
 
 1. **Retailer Targeting***: The project successfully identified the retailers who are most likely to purchase a particular product. This valuable insight enables the sales team to focus their efforts on these specific retailers, increasing the chances of making successful sales. By understanding which retailers are more inclined to buy the product, the team can allocate their time and resources effectively.
@@ -19,8 +17,17 @@ The project achieved the following outcomes:
 
 Overall, the project's outcomes empower the sales team to optimize their strategies by targeting the right retailers, offering personalized recommendations, and tailoring their product suggestions to different regions and recipients. These insights contribute to enhancing sales effectiveness and increasing the likelihood of successful sales outcomes.
 
-**Tools used**:
----------------
+## Project Steps
+
+1. **Categorization**: Categorized 6000 items into 30-60 categories based on product importance and revenue share.
+
+2. **Association Rule Mining**: Built an Association Rule model using categorized data to identify relationships and co-purchase patterns between product categories.
+
+3. **Analysis and Recommendations**: Analyzed the Association Rule model output to generate actionable recommendations for parent retailers, helping the sales team make informed decisions and increase sales.  
+
+Recommendations also considered the importance of Hero products.
+
+## Tools used
 
 Most of this project was completed using Python 3.6.1 in Jupyter Notebook, including data
 cleaning, model building, and exploratory data analysis. The packages used are as follows:
