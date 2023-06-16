@@ -9,7 +9,7 @@ Mining.
 ## Outcome of the Project:
 The project achieved the following outcomes:
 
-1. **Retailer Targeting***: The project successfully identified the retailers who are most likely to purchase a particular product. This valuable insight enables the sales team to focus their efforts on these specific retailers, increasing the chances of making successful sales. By understanding which retailers are more inclined to buy the product, the team can allocate their time and resources effectively.
+1. **Retailer Targeting**: The project successfully identified the retailers who are most likely to purchase a particular product. This valuable insight enables the sales team to focus their efforts on these specific retailers, increasing the chances of making successful sales. By understanding which retailers are more inclined to buy the product, the team can allocate their time and resources effectively.
 
 2. **Personalized Recommendations**: The project also identified the top products that are most suitable for a specific retailer. This allows the sales team to provide personalized recommendations tailored to each retailer's unique needs and preferences. By offering targeted product suggestions, the team can enhance their sales approach and provide a more satisfying experience for the retailers.
 
